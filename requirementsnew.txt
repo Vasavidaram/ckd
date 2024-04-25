@@ -1,0 +1,7 @@
+tensorflow 
+numpy 
+keras==3.0.0 
+Flask
+Werkzeug
+opencv-python
+Pillow
